@@ -1,0 +1,28 @@
+.qd1{
+    background-color: #fdc57b;
+    width: 150px;
+    height: 150px;
+}
+.qd2{
+    background-color: #fdc57b;
+    width: 150px;
+    height: 150px;
+}
+.qd3{
+    background-color: #fdc57b;
+    width: 150px;
+    height: 150px;
+}
+.qd4{
+    background-color: #fdc57b;
+    width: 150px;
+    height: 150px;
+}
+body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    background-color: #62374e;
+    place-items: center;
+    
+} 
